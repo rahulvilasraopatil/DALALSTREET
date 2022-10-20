@@ -1,0 +1,16 @@
+2022-10-20 20:14:49,302 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-20 20:16:30,774 [Worker-25: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: rahulpatilDalalAI:rahulpatilDalalAI:0.0.1-SNAPSHOT @ C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\pom.xml.
+2022-10-20 20:16:30,774 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: rahulpatilDalalAI:rahulpatilDalalAI:0.0.1-SNAPSHOT @ C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\pom.xml.
+2022-10-20 20:16:32,412 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 20:16:32,413 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\src\main\resources
+2022-10-20 20:16:32,416 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 20:16:32,416 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\src\test\resources
+2022-10-20 20:16:34,097 [Worker-26: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: rahulpatilDalalAI:rahulpatilDalalAI:0.0.1-SNAPSHOT @ C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\pom.xml.
+2022-10-20 20:16:34,632 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 20:16:34,633 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\src\main\resources
+2022-10-20 20:16:34,635 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 20:16:34,636 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\src\test\resources
+2022-10-20 20:16:36,117 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 20:16:36,117 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\src\main\resources
+2022-10-20 20:16:36,119 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 20:16:36,119 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RAHUL\eclipse-workspace\rahulpatilDalalAI\src\test\resources
